@@ -1,5 +1,6 @@
 # swift-ui-example-tips
 
-| #   | Basic Screen Transition                 |                                             |
-| --- | --------------------------------------- | ------------------------------------------- |
-| 1   | ![](./basic-screen-transition/test.gif) | [Code](./basic-screen-transition/README.md) |
+| Title                     | Preview                                   | Example                                       |
+| ------------------------- | ----------------------------------------- | --------------------------------------------- |
+| Basic Screen Transition   | ![](./basic-screen-transition/test.gif)   | [Code](./basic-screen-transition/README.md)   |
+| Routing Screen Transition | ![](./routing-screen-transition/test.gif) | [Code](./routing-screen-transition/README.md) |

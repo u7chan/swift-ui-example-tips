@@ -1,5 +1,7 @@
 # basic-screen-transition
 
+![](./test.gif)
+
 ```swift
 import SwiftUI
 
